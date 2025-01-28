@@ -19,3 +19,11 @@ I specialize in both frontend and backend development to create seamless user ex
 
 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waydedd&show_icons=true&theme=dark&hide_rank=true)
+
+## 🏆 GitHub Achievements
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Waydedd&theme=darkhub&row=1&column=7)
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/iyiola-ajayi-0a0aa2344?trk=contact-info)
