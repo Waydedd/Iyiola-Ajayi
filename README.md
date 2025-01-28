@@ -5,7 +5,7 @@ I specialize in both frontend and backend development to create seamless user ex
 
 🌟 Achievements
 - 🏆 *Senior Backend Developer* at *Quick Cart*.
-- 🚀 Contributed to *Quick Cart and 23's 'n 9* Projects.
+- 🚀 Contributed to *Quick Cart and 23 n 9's* Projects.
 - 💻 Over *500+* contributions in *2024*.
 
 🔧 Technologies & Tools
