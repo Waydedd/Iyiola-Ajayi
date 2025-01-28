@@ -12,6 +12,7 @@ I specialize in both frontend and backend development to create seamless user ex
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
