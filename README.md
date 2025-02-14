@@ -14,7 +14,6 @@ I specialize in both frontend and backend development to create seamless user ex
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 
 📊 GitHub Stats
